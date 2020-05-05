@@ -1,0 +1,12 @@
+vpm\IpTracker\Builder\JsonIpInfoBuilder.class
+vpm\IpTracker\HttpManagement.class
+vpm\IpTracker\ExceptionDialog.class
+vpm\IpTracker\TrackIp.class
+vpm\IpTracker\Builder\CsvIpInfoBuilder.class
+vpm\IpTracker\Builder\XmlIpInfoBuilder.class
+vpm\IpTracker\Constants.class
+vpm\IpTracker\Builder\IpInfoBuilder.class
+module-info.class
+vpm\IpTracker\App.class
+vpm\IpTracker\PrimaryController.class
+vpm\IpTracker\IpInfo.class

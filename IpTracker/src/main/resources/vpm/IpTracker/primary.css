@@ -1,0 +1,13 @@
+.jfx-combo-box {
+	-fx-background-color: #2d3447;
+}
+
+.jfx-combo-box .label {
+	-fx-background-color:  #9a9a9a;
+	-fx-text-fill:  #9a9a9a;
+}
+
+.combo-box .cell {
+	-fx-text-fill: #9a9a9a;
+	-fx-background-color: #2d3447
+}
